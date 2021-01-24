@@ -1,6 +1,6 @@
 {
     "name": "kasiraddmin/addminkasir",
-    "type": "library",
+    "type": "project",
     "description": "Laravel Framwork untuk membuat library admin",
     "keywords": [
         "framework",
