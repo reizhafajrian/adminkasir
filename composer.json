@@ -1,5 +1,5 @@
 {
-    "name": "admin/kasir",
+    "name": "kasiraddmin",
     "type": "library",
     "description": "Laravel Framwork untuk membuat library admin",
     "keywords": [
